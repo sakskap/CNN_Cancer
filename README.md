@@ -56,6 +56,3 @@ Our work has practical implications for automated cancer detection, offering a g
 
 We acknowledge Bas Veeling, Babak Ehteshami Bejnordi, Geert Litjens, and Jeroen van der Laak for providing the dataset and contributing to this meaningful project. The dataset is available under the CC0 License and can be accessed on GitHub. If you use PCam in a scientific publication, please ensure proper attribution to the original authors.
 
-## Get Started
-
-1. Clone the rep
